@@ -1,0 +1,32 @@
+---
+title: "Doku"
+author: "Kilian Hauber"
+format: pdf
+editor: visual
+bibliography: ../lit/quellen.json
+reference-section-title: Quellenverzeichnis
+---
+
+## Diskussion
+
+(Diskussionsgruppe: Kilian Hauber, Tim Trefzer, Danis Sisic)
+
+Die Analyse zielt darauf ab, die Unterschiede im Kaufverhalten von Schweizer und chinesischen Konsumenten zu verstehen und erläutert die Schwierigkeit westlicher Unternehmen, aufgrund von kulturellen Unterschieden, in den chinesischen Markt einzutreten.
+
+Unserer Meinung nach ist die gewählte induktive qualitative Methode sehr gut geeignet, um detaillierte Einblicke in die kulturellen Unterschiede zu erlangen. Zudem ermöglicht die regionale Differenzierung, das Konsumverhalten durch den Einfluss dieser regionalen Unterschiede zu berücksichtigen.
+
+Des Weiteren ist anzunehmen, dass die Ergebnisse dieser Studie die signifikanten Unterschiede im Kaufverhalten der Menschen, sowohl zwischen Ländern als auch innerhalb der Länder aufweisen, was den Erwartungen entspricht und wertvolle Informationen für global agierende Unternehmen bietet. Ein weiterer wichtiger Aspekt, welcher dargestellt wird, ist die Forschungslücke auf Seite 65. Diese besagt, dass bisherige Studien auf vereinfachte nationale Kulturmodelle setzen und die kulturellen Unterscheide nicht ausreichend berücksichtigt werden. In Zuge dessen soll die Studie diese Lücke schließen.
+
+Als Kritikpunkt der induktiven Methode sehen wir jedoch das Problem der Generalisierbarkeit. Es wird von spezifischen Beobachtungen auf das Allgemein schlussgefolgert. Allerdings gibt es nie eine Garantie, dass die Beobachtungen aus dieser Studie immer gelten.
+
+Hier ist unserer Meinung nach eine quantitative Methode vorteilhafter, da aufgrund einer größeren Stichprobe und der statistischen Analysen, die Ergebnisse auf einer breiteren Population angewandt werden könnten.
+
+\newpage
+
+## Fazit:
+
+Die induktive qualitative Methodik der Studie ermöglicht tiefe Einblicke in das Kaufverhalten der Konsumenten und liefert wertvolle Informationen für internationale Unternehmen. Allerdings liefert diese Methode nicht den Vorteil der Generalisierbarkeit, wodurch die Ergebnisse nicht auf die breite Population angewandt werden können.
+
+Eine Kombination beider Methoden ist unserer Meinung nach am vorteilhaftesten, damit könnten die Stärken beider Ansätze genutzt werden, um eine umfassende Perspektive zu bieten.
+
+@http://zotero.org/users/13971358/items/5KCTDL3I

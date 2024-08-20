@@ -1,0 +1,49 @@
+[
+	{
+		"id": "http://zotero.org/users/13971358/items/5KCTDL3I",
+		"type": "article-journal",
+		"container-title": "Asian Journal of Business Research",
+		"DOI": "10.14707/ajbr.180043",
+		"ISSN": "11788933",
+		"issue": "1",
+		"journalAbbreviation": "AJBR",
+		"source": "DOI.org (Crossref)",
+		"title": "Comparative Analysis of Purchasing Decision Making between Swiss Customers and Chinese Customers of Cosmetics",
+		"URL": "http://www.magscholar.com/ajbr/ajbrv8n1/ajbr180043.pdf",
+		"volume": "8",
+		"author": [
+			{
+				"literal": "University of Applied Sciences & Arts Northwestern, Switzerland"
+			},
+			{
+				"family": "Gomes",
+				"given": "Joana Sofia Neves"
+			},
+			{
+				"family": "Jeive",
+				"given": "Michael"
+			},
+			{
+				"literal": "University of Applied Sciences & Arts Northwestern, Switzerland"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					8,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					6,
+					20
+				]
+			]
+		}
+	}
+]
